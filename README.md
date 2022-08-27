@@ -1,3 +1,3 @@
 # vavilon
- - [Preview](https://your-name.github.io/your-repo/)
- - [Pull Request](https://github.com/your-name/your-repo/pull/1/files)
+ - [Preview](https://your-name.github.io/vavilon/)
+ - [Pull Request](https://github.com/your-name/vavilon/pull/1/files)
