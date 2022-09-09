@@ -1,4 +1,4 @@
 node_modules
 .idea
 .vscode
-dir_to_ignore/venv
+venv/
